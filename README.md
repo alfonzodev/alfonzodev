@@ -8,8 +8,8 @@
 ## 🌱 I’m learning 
 
 - Full stack dev using the PERN stack
-- 3D Modelling using Blender and creation
-- Integration of 3D graphics on the web using three.js
+- 3D Modelling using Blender
+- Creation and Integration of 3D graphics on the web using three.js
 
 ## 🖥️ Currently developing
 
