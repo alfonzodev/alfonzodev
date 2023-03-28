@@ -1,8 +1,8 @@
 # José Alfonzo
 
-**`Student Software Developer`**
+**`Trainee Software Developer`**
 
-<p>I'm a creative developer with a passion for creating immersive 3D user experiences on the web.</p> 
+<p>I'm a full-stack creative developer with a passion for creating immersive 3D user experiences on the web.</p> 
 <p>Curently completing a coding bootcamp at Northcoders.</p> 
 
 ## 🌱 I’m learning 
