@@ -2,7 +2,7 @@
 
 **`Trainee Software Developer`**
 
-<p>I'm a full-stack creative developer with a passion for creating immersive 3D user experiences on the web.</p> 
+<p>I'm a full-stack creative developer with a passion for problem-solving and creating immersive user experiences on the web.</p> 
 <p>Curently completing a coding bootcamp at Northcoders.</p> 
 
 ## 🌱 I’m learning 
@@ -13,7 +13,7 @@
 
 ## 🖥️ Currently developing
 
-- My Three.js personal portfolio
+- NC News Backend API
 <br>
 <h3 align="center">Connect With Me</h3>
 
