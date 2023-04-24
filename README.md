@@ -13,7 +13,7 @@
 
 ## 🖥️ Currently developing
 
-- NC News Backend API
+- NC News
 <br>
 <h3 align="center">Connect With Me</h3>
 
