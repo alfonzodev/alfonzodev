@@ -3,7 +3,7 @@
 **`Trainee Software Developer`**
 
 <p>I'm a full-stack creative developer with a passion for problem-solving and creating immersive user experiences on the web.</p> 
-<p>Curently completing a coding bootcamp at Northcoders.</p> 
+<p>Recently graduated from a 13-week Software Engineering bootcamp at Northcoders.</p> 
 
 ## 🌱 I’m learning 
 
