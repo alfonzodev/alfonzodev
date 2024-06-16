@@ -9,9 +9,6 @@
 - 3D Modelling using Blender
 - Creation and Integration of 3D graphics on the web using three.js
 
-## 🖥️ Currently developing
-
-- NC News
 <br>
 <h3 align="center">Connect With Me</h3>
 
