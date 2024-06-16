@@ -1,13 +1,11 @@
 # José Alfonzo
 
-**`Trainee Software Developer`**
+**`Creative Software Developer`**
 
 <p>I'm a full-stack creative developer with a passion for problem-solving and creating immersive user experiences on the web.</p> 
-<p>Recently graduated from a 13-week Software Engineering bootcamp at Northcoders.</p> 
 
-## 🌱 I’m learning 
+## 🌱 I like
 
-- Full stack dev using the PERN stack
 - 3D Modelling using Blender
 - Creation and Integration of 3D graphics on the web using three.js
 
