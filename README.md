@@ -4,11 +4,6 @@
 
 <p>I'm a full-stack creative developer with a passion for problem-solving and creating immersive user experiences on the web.</p> 
 
-## 🌱 I like
-
-- 3D Modelling using Blender
-- Creation and Integration of 3D graphics on the web using three.js
-
 <br>
 <h3 align="center">Connect With Me</h3>
 
